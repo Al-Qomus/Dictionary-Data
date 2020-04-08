@@ -1,0 +1,27 @@
+{
+  "migrations": [
+    {
+      "version": 1,
+      "roots": [
+        "v1/roots.enc"
+      ],
+      "items": [
+        "v1/dict/items_001.enc",
+        "v1/dict/items_002.enc",
+        "v1/dict/items_003.enc",
+        "v1/dict/items_004.enc",
+        "v1/dict/items_005.enc",
+        "v1/dict/items_006.enc",
+        "v1/dict/items_007.enc",
+        "v1/dict/items_008.enc",
+        "v1/dict/items_009.enc",
+        "v1/dict/items_010.enc",
+        "v1/dict/items_011.enc",
+        "v1/dict/items_012.enc",
+        "v1/dict/items_013.enc",
+        "v1/dict/items_014.enc",
+        "v1/dict/items_015.enc"
+      ]
+    }
+  ]
+}

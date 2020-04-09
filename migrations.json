@@ -2,10 +2,12 @@
   "migrations": [
     {
       "version": 1,
-      "roots": [
+      "removedRoots": [],
+      "addedRoots": [
         "v1/roots.enc"
       ],
-      "items": [
+      "removedItems": [],
+      "addedItems": [
         "v1/dict/items_001.enc",
         "v1/dict/items_002.enc",
         "v1/dict/items_003.enc",

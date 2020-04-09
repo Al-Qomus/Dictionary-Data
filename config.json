@@ -1,3 +1,5 @@
 {
-	"latestDataVersion": 1
+	"dataVersion": 1,
+	"minAndroidVersion": 1,
+	"recommendedVersion": 1
 }

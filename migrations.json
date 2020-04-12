@@ -6,75 +6,255 @@
       "removedRoots": [],
       "addedRoots": [
         {
-          "size": 4443,
-          "path": "v1/roots.enc"
+          "path": "v1/roots.enc",
+          "size": 4443
         }
       ],
       "removedItems": [],
       "addedItems": [
         {
-          "size": 4096,
-          "path": "v1/dict/items_001.enc"
+          "path": "v1/dict/items_001.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_002.enc"
+          "path": "v1/dict/items_002.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_003.enc"
+          "path": "v1/dict/items_003.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_004.enc"
+          "path": "v1/dict/items_004.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_005.enc"
+          "path": "v1/dict/items_005.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_006.enc"
+          "path": "v1/dict/items_006.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_007.enc"
+          "path": "v1/dict/items_007.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_008.enc"
+          "path": "v1/dict/items_008.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_009.enc"
+          "path": "v1/dict/items_009.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_010.enc"
+          "path": "v1/dict/items_010.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_011.enc"
+          "path": "v1/dict/items_011.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_011.enc"
+          "path": "v1/dict/items_012.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_012.enc"
+          "path": "v1/dict/items_013.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_013.enc"
+          "path": "v1/dict/items_014.enc",
+          "size": 1000
         },
         {
-          "size": 4096,
-          "path": "v1/dict/items_014.enc"
+          "path": "v1/dict/items_015.enc",
+          "size": 1000
         },
         {
-          "size": 3411,
-          "path": "v1/dict/items_015.enc"
+          "path": "v1/dict/items_016.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_017.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_018.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_019.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_020.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_021.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_022.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_023.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_024.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_025.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_026.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_027.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_028.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_029.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_030.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_031.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_032.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_033.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_034.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_035.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_036.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_037.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_038.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_039.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_040.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_041.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_042.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_043.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_044.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_045.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_046.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_047.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_048.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_049.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_050.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_051.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_052.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_053.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_054.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_055.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_056.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_057.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_058.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_059.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_060.enc",
+          "size": 1000
+        },
+        {
+          "path": "v1/dict/items_061.enc",
+          "size": 755
         }
       ]
     }
